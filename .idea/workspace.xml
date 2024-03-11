@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac5a6f1b-acc5-43f3-80c9-7faef7e07e12" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2crRKc4NUSEGJI4WKKiLWmbdUAE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.View.executor": "Run",
+    "JUnit.ToyRepositoryTest.testById.executor": "Run",
+    "JUnit.ToyRepositoryTest.testList.executor": "Run",
+    "JUnit.ToyServiceImplTest.addToy_Exception.executor": "Debug",
+    "JUnit.ToyServiceImplTest.addToy_Successful.executor": "Debug",
+    "JUnit.ToyServiceImplTest.executor": "Debug",
+    "JUnit.ToyServiceImplTest.increase_Exception.executor": "Debug",
+    "JUnit.ToyServiceImplTest.increase_Successful.executor": "Run",
+    "JUnit.ToyServiceImplTest.listToys_Successful.executor": "Debug",
+    "JUnit.ToyServiceImplTest.search_Exception.executor": "Debug",
+    "JUnit.ToyServiceImplTest.search_Successful.executor": "Debug",
+    "JUnit.ToyServiceImplTest.showByType_Exception.executor": "Debug",
+    "JUnit.ToyServiceImplTest.showByType_Successful.executor": "Debug",
+    "JUnit.ToyServiceImplTest.sort_Exception.executor": "Debug",
+    "JUnit.ToyServiceImplTest.totalPrices_Successful.executor": "Debug",
+    "JUnit.ToyServiceImplTest.totalToys_Successful.executor": "Debug",
+    "JUnit.ToyServiceImplTest.verifyExist_True.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/esteb/IdeaProjects/co.edu.cue.jugueteriasV2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/esteb/IdeaProjects/co.edu.cue.jugueterias/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="services" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.View">
+    <configuration name="View" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.View" />
+      <module name="co.edu.cue.jugueterias" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToyRepositoryTest.testById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="co.edu.cue.jugueterias" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ToyRepositoryTest" />
+      <option name="METHOD_NAME" value="testById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToyRepositoryTest.testList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="co.edu.cue.jugueterias" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ToyRepositoryTest" />
+      <option name="METHOD_NAME" value="testList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToyServiceImplTest.addToy_Exception" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="co.edu.cue.jugueterias" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ToyServiceImplTest" />
+      <option name="METHOD_NAME" value="addToy_Exception" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToyServiceImplTest.showByType_Exception" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="co.edu.cue.jugueterias" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ToyServiceImplTest" />
+      <option name="METHOD_NAME" value="showByType_Exception" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.View" />
+        <item itemvalue="JUnit.ToyRepositoryTest.testById" />
+        <item itemvalue="JUnit.ToyRepositoryTest.testList" />
+        <item itemvalue="JUnit.ToyServiceImplTest.showByType_Exception" />
+        <item itemvalue="JUnit.ToyServiceImplTest.addToy_Exception" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac5a6f1b-acc5-43f3-80c9-7faef7e07e12" name="Changes" comment="" />
+      <created>1708867652448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708867652448</updated>
+      <workItem from="1708867653805" duration="2250000" />
+      <workItem from="1708899524146" duration="5978000" />
+      <workItem from="1709036644987" duration="597000" />
+      <workItem from="1709055957134" duration="742000" />
+      <workItem from="1709064652672" duration="9877000" />
+      <workItem from="1709088545427" duration="1410000" />
+      <workItem from="1709122110731" duration="3625000" />
+      <workItem from="1709126748265" duration="537000" />
+      <workItem from="1709127310079" duration="1721000" />
+      <workItem from="1709162471702" duration="13650000" />
+      <workItem from="1709492409807" duration="78000" />
+      <workItem from="1709687977780" duration="618000" />
+      <workItem from="1709726598631" duration="8706000" />
+      <workItem from="1709835531420" duration="16136000" />
+      <workItem from="1709907056856" duration="3594000" />
+      <workItem from="1709918676434" duration="1743000" />
+      <workItem from="1709938091844" duration="13733000" />
+      <workItem from="1709954044934" duration="1519000" />
+      <workItem from="1709956088130" duration="430000" />
+      <workItem from="1709956752115" duration="657000" />
+      <workItem from="1710033373349" duration="11244000" />
+      <workItem from="1710078118489" duration="30920000" />
+      <workItem from="1710163000881" duration="17864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/co_edu_cue_jugueterias$ToyServiceImplTest_addToy_Successful.ic" NAME="ToyServiceImplTest.addToy_Successful Coverage Results" MODIFIED="1709125008272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
